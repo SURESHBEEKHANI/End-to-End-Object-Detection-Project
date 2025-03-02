@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 # PROJECT STRUCTURE DEFINITION
 ################################################################################
 # Project name that will be used throughout the application
-project_name = "braintumordetection"
+project_name = "bike-helmet-detection"
 
 # Define the complete project structure
 # This list contains all files and directories that will be created
