@@ -53,6 +53,7 @@ thop>=0.1.1  # FLOPs computation
 # albumentations>=1.0.3
 # pycocotools>=2.0  # COCO mAP
 # roboflow
+gdown
 
 
 -e .
